@@ -8,7 +8,7 @@
   "server": {
     "ip": "TheAureole.aternos.me:42956",
     "port": 42956,
-    "version": "",
+    "version": "1.12.1",
     "try-creative": false
   },
   "position": {
