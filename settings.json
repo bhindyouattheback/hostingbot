@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheAureole.aternos.me:42956",
+    "port": 42956,
     "version": "",
     "try-creative": false
   },
